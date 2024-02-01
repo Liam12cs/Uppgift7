@@ -1,0 +1,8 @@
+Kvitto
+2
+Nocco: 25 kr
+Egg: 40 kr
+Golden_apple: 500 kr
+cola: 19 kr
+
+Totalt: 584 kr
